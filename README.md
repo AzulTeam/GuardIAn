@@ -4,7 +4,7 @@
 <div align="center">
 <p>
    <a align="left" href="https://saturdays.ai/latam-online/" target="_blank">
-   <img width="850" src="https://res.cloudinary.com/saturdaysai/images/w_1536,h_1229/f_auto,q_auto/v1643421935/EquipoAzul/EquipoAzul-png?_i=AA"></a>
+   <img width="850" src="https://i.postimg.cc/4318WNvS/Equipo-Azul-png.jpg"></a>
 </p>
 </div>
 
