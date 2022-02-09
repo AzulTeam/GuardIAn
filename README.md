@@ -23,5 +23,4 @@ Modelo:
 
 ## <div align="center">Colaboradores</div>
 
-<a href="https://github.com/AzulTeam/GuardIAn/graphs/contributors"><img src="https://github.com/AzulTeam/GuardIAn/contributors" /></a>
-<a href="https://github.com/AzulTeam/GuardIAn/graphs/contributors"><img src="https://opencollective.com/AzulTeam/GuardIAn/contributors.svg?width=990" /></a>
+<a href="https://github.com/AzulTeam/GuardIAn/graphs/contributors"><img src="https://avatars.githubusercontent.com/u/64330912?s=64&v=4" /></a><img src="https://avatars.githubusercontent.com/u/36720575?s=64&v=4" /></a>
