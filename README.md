@@ -24,4 +24,4 @@ Modelo:
 ## <div align="center">Colaboradores</div>
 
 <a href="https://github.com/AzulTeam/GuardIAn/graphs/contributors"><img src="https://opencollective.com/AzulTeam/contributors.svg?width=990" /></a>
-<a href="https://github.com/ultralytics/yolov5/graphs/contributors"><img src="https://opencollective.com/ultralytics/contributors.svg?width=990" /></a>
+<a href="https://github.com/AzulTeam/GuardIAn/graphs/contributors"><img src="https://opencollective.com/AzulTeam/GuardIAn/contributors.svg?width=990" /></a>
