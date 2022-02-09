@@ -4,7 +4,7 @@
 <div align="center">
 <p>
    <a align="left" href="https://saturdays.ai/latam-online/" target="_blank">
-   <img width="850" src="https://i.postimg.cc/4318WNvS/Equipo-Azul-png.jpg"></a>
+   <img width="850" src="https://raw.githubusercontent.com/AzulTeam/GuardIAn/main/Distracciones/utils/__pycache__/Imagen1.png"></a>
 </p>
 </div>
 
@@ -23,4 +23,4 @@ Modelo:
 
 ## <div align="center">Colaboradores</div>
 
-<a href="https://github.com/AzulTeam/GuardIAn/graphs/contributors"><img src="https://avatars.githubusercontent.com/u/64330912?s=64&v=4" /></a><img src="https://avatars.githubusercontent.com/u/36720575?s=64&v=4" /></a>
+<a href="https://github.com/AzulTeam/GuardIAn/graphs/contributors"><img src="https://i.postimg.cc/4318WNvS/Equipo-Azul-png.jpg" /></a>
