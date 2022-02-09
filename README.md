@@ -19,3 +19,8 @@ Conjunto de datos:
 
 Modelo: 
 - Transferencia de aprendizaje de Yolo V5 para detección de distracciones y DLIB con shape_predictor_68_face_landmarks para detección de somnolencia.
+
+
+## <div align="center">Colaboradores</div>
+
+<a href="https://github.com/AzulTeam/GuardIAn/contributors"><img src="https://opencollective.com/AzulTeam/contributors.svg?width=990" /></a>
